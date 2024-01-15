@@ -1,6 +1,6 @@
 ### Olá meu nome é Gefferson T. Souza👋
 
-**Desenvolvedor Front End**
+**Desenvolvedor Full Stack**
 
 [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <div ><a href="https://www.dio.me/users/geffersonteodorodesouza" target="_blank" rel="noopener noreferrer" ><img width="80px" style="border-radius: 1rem;" src="https://hermes.dio.me/articles/cover/364fb700-4c6f-482b-91fe-6c66b31ae8a1.jpg" alt="logo"></a></div>
 
