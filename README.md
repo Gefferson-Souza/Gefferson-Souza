@@ -1,10 +1,10 @@
 # Hi there, I'm Gefferson Souza. 👋
 
-### Senior Backend Engineer | Compiler Enthusiast | TypeScript & Rust
+### Backend Engineer | TypeScript & Rust | Offline-first systems and fiscal integrations
 
-I am a software engineer obsessed with **system resilience**, **AST manipulation**, and **high-performance architecture**. I specialize in building scalable Node.js/NestJS backends and am currently exploring the intersection between TypeScript agility and Rust safety.
+I build backends that keep working when their dependencies do not: retail point-of-sale and Brazilian government fiscal integrations, where an outage is lost revenue the same hour. I design from the failure case backwards, and I like compilers.
 
-Currently, I'm working as a **Senior Backend Engineer** at **Duofy**, architecting multi-tenant context systems and zero-data-loss synchronization engines.
+Currently a **Software Engineer (Backend)** at **Duofy**, building offline-first fiscal contingency, a multi-tenant request-context layer and zero-data-loss synchronization for a retail POS and ERP platform.
 
 ---
 
@@ -72,9 +72,9 @@ Currently, I'm working as a **Senior Backend Engineer** at **Duofy**, architecti
 
 ### 📈 Proven Impact (Brief History)
 
-- **Duofy (Current):** Engineered a shared context system using `AsyncLocalStorage` and designed a resilience layer with RabbitMQ that survived critical ERP outages.
-- **Fox Digital:** Solely resolved a critical government integration failure (SEFAZ) during a holiday peak and led the migration to Kubernetes, reducing cloud costs by 15%.
-- **Emestone:** Orchestrated full production rollouts and improved dashboard load times by 30% via lazy loading strategies.
+- **Duofy (current):** Restored sales for every client in the state after the tax authority began validating tax-reform fields on January 1 despite an official postponement — diagnosed and fixed alone, during the holiday. Built offline-first fiscal contingency, a multi-tenant context layer on `AsyncLocalStorage`, and RabbitMQ synchronization with zero data loss by design.
+- **Fox Digital Commodities (Tech Lead):** Automated fiscal document issuance — three document types previously issued by hand across three systems now emit from a single freight ticket, removing 20+ hours of manual work per month. Led the migration to Kubernetes on EKS.
+- **Emestone:** Cut page load time by 30% and production bug reports by 40% in React applications.
 
 ---
 
@@ -82,9 +82,6 @@ Currently, I'm working as a **Senior Backend Engineer** at **Duofy**, architecti
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gefferson-souza&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gefferson-souza&langs_count=6&theme=radical&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
 ---
