@@ -90,7 +90,7 @@ Currently a **Software Engineer (Backend)** at **Duofy**, building offline-first
   <a href="https://gefferson-souza-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-gefferson.dev-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gefferson-teodoro-de-souza-desenvolvedor-full-stck/">
+  <a href="https://www.linkedin.com/in/gefferson-souza/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:geffersonteodorodesouza@gmail.com">
